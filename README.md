@@ -1,2 +1,2 @@
 # aula4alura
-Tentativa de fazer a ia trabalhar em cima do meu trabalho profissional.
+Tentativa de integrar a Inteligencia Artificial com a Controladoria Geral do municipio.
